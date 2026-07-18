@@ -756,20 +756,21 @@ nav {
         margin-bottom: 30px !important;
     }
 
-    .m_section_gf_ {
-        margin-top: 200px !important;
-        margin-bottom: 200px !important;
-    }
+    .m_section_parent{
+    width: 300px !important;
+} 
 
-    .m_section_image {
-        height: 50vh;
-        width: 60vw;
-        padding-left: 10px !important;
-        padding-top: 140px !important;
+.m_section_image_div{
+    height: 100px !important;
+    width: 200px !important ;
+    object-fit: fill;
+    margin-left: 10px !important;
+    margin-top: 10px !important;
+
+}
 
 
-
-    }
+    
 
 
     .m_section_para {
@@ -1346,21 +1347,22 @@ nav {
         margin-bottom: 30px !important;
     }
 
-    .m_section_gf_ {
-        margin-top: 200px !important;
-        margin-bottom: 200px !important;
-    }
+    .m_section_parent{
+    width: 300px !important;
+} 
 
-    .m_section_image {
-        height: 50vh;
-        width: 50vw;
-        padding-left: 10px !important;
-        padding-top: 150px !important;
+.m_section_image_div{
+    height: 100px !important;
+    width: 200px !important ;
+    object-fit: fill;
+    margin-left: 10px !important;
+    margin-top: 10px !important;
+
+}
 
 
-    }
+    
 
-    .m_section_image_div {}
 
     .m_section_para {
         font-size: 10px;
@@ -1386,6 +1388,7 @@ nav {
         height: 120px;
 
     }
+
 
     .rockstart_section_image {
         height: 50px;
@@ -1771,8 +1774,8 @@ nav {
         line-height: 40px;
         padding: 0px 0px;
     }
-
-
+.section_maegin_remoot{
+}
 
     .section4_two_mainparaa {
         margin: 0px 0px !important;
@@ -1785,7 +1788,7 @@ nav {
 
     .margin_padding_removing {
         padding-bottom: 100px !important;
-        margin-top: 90px !important;
+        /* margin-top: 90px !important; */
     }
 
     .section_4_gap {
@@ -1933,21 +1936,22 @@ nav {
         margin-bottom: 30px !important;
     }
 
-    .m_section_gf_ {
-        margin-top: 200px !important;
-        margin-bottom: 200px !important;
-    }
+    .m_section_parent{
+    width: 300px !important;
+} 
 
-    .m_section_image {
-        height: 50vh;
-        width: 50vw;
-        padding-left: 10px !important;
-        padding-top: 150px !important;
+.m_section_image_div{
+    height: 100px !important;
+    width: 200px !important ;
+    object-fit: fill;
+    margin-left: 10px !important;
+    margin-top: 10px !important;
+
+}
 
 
-    }
+    
 
-    .m_section_image_div {}
 
     .m_section_para {
         font-size: 10px;
@@ -1973,6 +1977,7 @@ nav {
         height: 120px;
 
     }
+
 
     .rockstart_section_image {
         height: 50px;
@@ -2586,16 +2591,44 @@ nav {
         margin-bottom: 30px !important;
     }
 
-    .m_section_gf_ {
-        margin-top: 200px !important;
-        margin-bottom: 200px !important;
+ .m_section_para {
+        font-size: 13px;
+        padding-top: 10px !important;
+        padding-left: 15px !important;
+        padding-right: 15px !important;
     }
 
-    .m_section_image {
+    .m_section_para2 {
+        font-size: 14px;
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+
+    }
+
+    hr {
+        margin-left: 13px !important;
+        margin-right: 20px !important;
+    }
+    .m_section_image_div{
+        /* margin-top: 0px !important; */
+        /* margin-bottom: 0px !important; */
+         padding: 0px 0px !important    ;
+        height: 270px  !important;
+        width: 300px !important;
+        object-fit: fill;
+        /* padding-top: 200px !important; */
+    }
+
+
+    /* .m_section_gf_ {
+        margin-top: 200px !important;
+        margin-bottom: 200px !important;
+    } */
+
+    /* .m_section_image {
         height: 50vh;
         width: 50vw;
         padding-left: 10px !important;
-        padding-top: 150px !important;
 
 
     }
@@ -2625,7 +2658,7 @@ nav {
         width: 300px;
         height: 120px;
 
-    }
+    } */
 
     .border_section {
         border: 1px solid white;
@@ -3556,6 +3589,7 @@ nav {
         margin-right: 20px !important;
     }
 
+
     .banner_parent {
         padding-bottom: 50px !important;
         justify-content: center;
@@ -3806,8 +3840,8 @@ nav {
     }
 
     .margin_padding_removing {
-        padding-bottom: 100px !important;
-        margin-top: 90px !important;
+        padding-bottom: 50px !important;
+        margin-top: 50px !important;
     }
 
     .section_4_gap {
@@ -4652,10 +4686,9 @@ nav {
     }
 
     .m_section_image {
-        height: 50vh;
-        width: 50vw;
+height: 270px !important;
+width: 210px !important;
         padding-left: 10px !important;
-        padding-top: 150px !important;
 
 
     }
