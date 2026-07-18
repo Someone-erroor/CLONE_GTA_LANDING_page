@@ -1517,6 +1517,7 @@ nav {
 
 
 
+
     .navbar_icon {
         /* width: auto; */
         margin-left: 50px !important;
@@ -1787,8 +1788,8 @@ nav {
     }
 
     .margin_padding_removing {
-        padding-bottom: 100px !important;
-        /* margin-top: 90px !important; */
+        padding-bottom: 50px !important;
+        margin-top: 50px !important;
     }
 
     .section_4_gap {
@@ -2444,6 +2445,7 @@ nav {
         padding-bottom: 100px !important;
         margin-top: 90px !important;
     }
+
 
     .section_4_gap {
         display: flex;
